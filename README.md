@@ -360,9 +360,9 @@ http://localhost:8501
 
 ### Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN
-- GitHub: https://github.com/YOUR-GITHUB
-- Email: your.email@example.com
+- LinkedIn: https://www.linkedin.com/in/shaimaa-hesham
+- GitHub: https://github.com/shaimaahesham
+- Email: shaimaahesham647@gmail.com
 
 ---
 
