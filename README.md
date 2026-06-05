@@ -110,27 +110,20 @@ FINAL_PROJECT
 ## Main Dashboard
 
 
-```markdown
 ![Dashboard](images/dashboard.png)
-```
 
 ## Business Questions Page
 
-```markdown
 ![Business Questions](images/business_questions.png)
-```
 
 ## Churn Prediction Page
 
-```markdown
 ![Prediction](images/prediction.png)
-```
 
 ## Insights Page
 
-```markdown
 ![Insights](images/insights.png)
-```
+
 
 ---
 
