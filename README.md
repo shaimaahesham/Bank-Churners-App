@@ -109,7 +109,6 @@ FINAL_PROJECT
 
 ## Main Dashboard
 
-> Replace with your screenshot
 
 ```markdown
 ![Dashboard](images/dashboard.png)
